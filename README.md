@@ -13,7 +13,7 @@
 
   ## About Me
 
-  I consider myself a "vibe coder" — someone who codes with curiosity and passion while still learning the ropes.
+  I consider myself a "vibe coder" someone who codes with curiosity and passion while still learning the ropes.
   But one day, I aim to go beyond that vibe and grow into a professional who can make impactful contributions through technology.
   
 </div>
